@@ -1,5 +1,5 @@
-USER='akshay@shivaami.com'
-PASSWORD='Hakuna123#'
+USER=''
+PASSWORD=''
 
 COUNTRY_ID = {
 	364 :"Antarctica",
